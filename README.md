@@ -18,10 +18,12 @@ from dog import dingo
 from authorize import api
 ```
 
-will be replaced with
+will be alphabetized and replaced with
 
 ```
 from authorize import api
 from django import settings
 from dog import dingo
 ```
+
+yay!
