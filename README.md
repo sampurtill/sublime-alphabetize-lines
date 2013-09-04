@@ -3,7 +3,7 @@ sublime-alphabetize-lines
 
 Sublime Text 2 plugin to alphabetize a set of lines
 
-Useage
+Usage
 -------
 
 Add to your packages et voila! OSX: "Command + Control + s" will activate it; all others, "Control + Alt + s"
