@@ -12,12 +12,14 @@ Especially useful when alphabetizing a list of imports at the top of a file.
 
 i.e.
 
-> from django import settings
-> from dog import dingo
-> from authorize import api
+```from django import settings
+from dog import dingo
+from authorize import api
+```
 
 will be replaced with
 
-> from authorize import api
-> from django import settings
-> from dog import dingo
+```from authorize import api
+from django import settings
+from dog import dingo
+```
